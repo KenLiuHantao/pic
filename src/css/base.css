@@ -1,0 +1,19 @@
+p{
+  margin: 0;
+  padding: 0;
+}
+body{
+  font-family: Untitled Sans, Helvetica, Arial, sans-serif;
+ overflow: hidden;
+  margin: 0;
+}
+ul{
+  margin: 0;
+  padding: 0;
+}
+li{
+  list-style: none;
+}
+::selection {
+  background-color: transparent ;
+}
